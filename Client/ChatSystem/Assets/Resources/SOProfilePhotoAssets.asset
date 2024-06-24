@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41729f992bc74c198174a13d6f81b9e5, type: 3}
+  m_Name: SOProfilePhotoAssets
+  m_EditorClassIdentifier: 
+  spriteAssets:
+  - internalName: default
+    externalName: "\u5C51\u4E4B\u9B54\u5973\u4F0A\u857E\u5A1C"
+    sprite: {fileID: 21300000, guid: b02ef1c153b7b39449d9508e816f257e, type: 3}
+  - internalName: elysia
+    externalName: "\u7231\u8389\u5E0C\u96C5"
+    sprite: {fileID: 21300000, guid: 246612dee9cbadc41925287d97b587a2, type: 3}
+  - internalName: hop
+    externalName: "\u732B\u5934"
+    sprite: {fileID: 21300000, guid: 8d3e54488d6e5b54e869ffed127c07cc, type: 3}
+  - internalName: zhi
+    externalName: "\u6C5F\u9762"
+    sprite: {fileID: 21300000, guid: 53467068eecf4644e84174fc1c8e9eb4, type: 3}

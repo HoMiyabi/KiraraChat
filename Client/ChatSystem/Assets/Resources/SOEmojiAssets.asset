@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41729f992bc74c198174a13d6f81b9e5, type: 3}
+  m_Name: SOEmojiAssets
+  m_EditorClassIdentifier: 
+  spriteAssets:
+  - internalName: buyaoa
+    externalName: "\u4E0D\u8981\u554A"
+    sprite: {fileID: 21300000, guid: fe921f669426a2846856c2a001d288fe, type: 3}
+  - internalName: wu
+    externalName: "\u5514"
+    sprite: {fileID: 21300000, guid: 23909d3a2060517468d01dc44612f4aa, type: 3}
+  - internalName: gandepiaoliang
+    externalName: "\u5E72\u5F97\u6F02\u4EAE"
+    sprite: {fileID: 21300000, guid: bd9315fccfddb2c4082156962e658cc8, type: 3}
+  - internalName: jiujiuwo
+    externalName: "\u6551\u6551\u6211"
+    sprite: {fileID: 21300000, guid: e7de7af480e068745a65b7efef19cb66, type: 3}
+  - internalName: nizhenyoumo
+    externalName: "\u4F60\u771F\u5E7D\u9ED8"
+    sprite: {fileID: 21300000, guid: 9a2cc19ddd04f294e9879a1604aedbd9, type: 3}
+  - internalName: geiwozoukai
+    externalName: "\u7ED9\u6211\u8D70\u5F00"
+    sprite: {fileID: 21300000, guid: c3d9c8e4556fa2b4ab2d9ecd57fc52db, type: 3}
+  - internalName: shuizhaole
+    externalName: "\u7761\u7740\u4E86"
+    sprite: {fileID: 21300000, guid: 7344d422c6d72c944b604176b073d803, type: 3}
+  - internalName: baituo
+    externalName: "\u62DC\u6258"
+    sprite: {fileID: 21300000, guid: 53216b7e22cb44344bdc4183afa27ca0, type: 3}
+  - internalName: jingjue
+    externalName: "\u8B66\u89C9"
+    sprite: {fileID: 21300000, guid: 77c8fadf497b319439176f115a61d461, type: 3}
+  - internalName: qingtoubi
+    externalName: "\u8BF7\u6295\u5E01"
+    sprite: {fileID: 21300000, guid: 2ddb67f3a7c5b3c43928b6577ca445ce, type: 3}
+  - internalName: jiaogeiwoba
+    externalName: "\u4EA4\u7ED9\u6211\u5427"
+    sprite: {fileID: 21300000, guid: 4347cfe8549ec5742a57271b58448df6, type: 3}
+  - internalName: chuhuoba
+    externalName: "\u51FA\u8D27\u5427"
+    sprite: {fileID: 21300000, guid: bd985f24576d71e4f9b023f002a1bbd3, type: 3}
+  - internalName: hengheng
+    externalName: "\u54FC\u54FC"
+    sprite: {fileID: 21300000, guid: d38433fe124be2744a86330a930f80a1, type: 3}
+  - internalName: gaichifanle
+    externalName: "\u8BE5\u5403\u996D\u4E86"
+    sprite: {fileID: 21300000, guid: 4092228754aa91e4da1251f7a536247c, type: 3}
+  - internalName: chijing
+    externalName: "\u5403\u60CA"
+    sprite: {fileID: 21300000, guid: bfd2c0a6026f7e845ab564cec2953f02, type: 3}
+  - internalName: xiaoshiyizhuang
+    externalName: "\u5C0F\u4E8B\u4E00\u6869"
+    sprite: {fileID: 21300000, guid: e3474f3e2871c9b48ae35b1a4e288108, type: 3}

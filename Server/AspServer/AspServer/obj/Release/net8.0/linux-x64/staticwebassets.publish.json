@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "cDZ6do7XTpt4KrV3LpQE7R6IfxGIygtBGzwsQJeITPs=",
+  "Source": "AspServer",
+  "BasePath": "_content/AspServer",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AspServer\\wwwroot",
+      "Source": "AspServer",
+      "ContentRoot": "C:\\Users\\Mojuko\\source\\repos\\AspServer\\AspServer\\wwwroot\\",
+      "BasePath": "_content/AspServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
